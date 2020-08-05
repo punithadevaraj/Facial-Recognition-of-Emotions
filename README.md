@@ -32,7 +32,7 @@ Once the development of visual expression recognition model is done in keras, we
 * Install the libraries.
     - Python version 3.6 and above
     - Keras
-    - Tensorflow
+    - Tensorflow 2.0.0 and above
     - Numpy
     - Pandas
     - Matplotlib
