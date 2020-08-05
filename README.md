@@ -38,6 +38,16 @@ Once the development of visual expression recognition model is done in keras, we
     - Matplotlib
     - OpenCV
     - Flask
+    
+  ## TO RUN THE PROJECT
+  
+  - In the Anaconda Navigator, create a virtual environment with Keras, Tensorflow, OpenCV and Flask installed
+  - Then in Command Prompt/Terminal type `pip install pipenv`
+  - `pipenv install`
+  - `python main.py`
+  - Then go to any web browser like Google Chrome, type localhost:5000, to see the output.
+  - Change camera.py file to webcam or video feed to see the respective output.
+    
 
 
 
